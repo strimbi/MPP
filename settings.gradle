@@ -1,8 +1,0 @@
-rootProject.name = 'JavaNetworking'
-include 'ProjectClientFx'
-include 'ProjectModel'
-include 'ProjectNetworking'
-include 'ProjectPersistance'
-include 'ProjectServer'
-include 'ProjectServices'
-
